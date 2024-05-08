@@ -1,0 +1,5 @@
+Fluxograma:
+1.Leia e armazene o número N que se deseja multiplicar por 9 #entrada
+2.Subtrair N-1 e armazenar como o primeiro dígito #processamento
+3.Subtrair 10-n e armazenar como o segundo dígito n2 #processamento
+4.Apresente n1 e n2 e encerre #saída

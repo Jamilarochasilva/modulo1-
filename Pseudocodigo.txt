@@ -1,0 +1,7 @@
+Pseudocodigo:
+1- Início;
+2- Leia N;
+3- N1=N-1;
+4- N2 = 10-N
+5- Imprima;
+5- Fim;
